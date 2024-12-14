@@ -1,0 +1,8 @@
+# Train using Terminal
+#cd yolov5
+#python train.py --img 224 --batch 16 --epochs 12 --data alzheimer_dataset.yaml --weights yolov5s.pt --task classify
+
+# Predict using Terminal
+# python classify/predict.py \
+#     --weights runs/train-cls/exp/weights/best.pt \
+#     --source {images_path}

@@ -1,0 +1,7 @@
+
+        path: D:\Alzheimer_Dataset 
+        train: D:\Alzheimer_Dataset
+        val: D:\Alzheimer_Dataset 
+        nc: 4 
+        names: ['Mild Impairment', 'Moderate Impairment', 'No Impairment', 'Very Mild Impairment']
+        
